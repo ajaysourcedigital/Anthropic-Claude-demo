@@ -41,6 +41,7 @@ A demo repo based on [Anthropic API.](https://console.anthropic.com/docs/api)
 ### Deploy With Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsnekkenull%2FAnthropic-Claude-demo&env=ANTHROPIC_API_KEY&envDescription=Anthropic%20API%20Key)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=snekkenull/Anthropic-Claude-demo&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 
 
@@ -49,6 +50,8 @@ A demo repo based on [Anthropic API.](https://console.anthropic.com/docs/api)
 > Deploy with the [`SITE_PASSWORD`](#environment-variables)
 > 
 > <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsnekkenull%2FAnthropic-Claude-demo&env=ANTHROPIC_API_KEY&env=SITE_PASSWORD&envDescription=Anthropic%20API%20Key" alt="Deploy with Vercel" target="_blank"><img src="https://vercel.com/button" alt="Deploy with Vercel" height=24 style="vertical-align: middle; margin-right: 4px;"></a>
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=snekkenull/Anthropic-Claude-demo&type=static&buildCmd=npm+run+build&outputDir=dist)
+[![Deploy to PandaStack](https://dashboard.pandastack.io/deploy-button.svg)](https://dashboard.pandastack.io/deploy?repo=snekkenull/Anthropic-Claude-demo&type=static&buildCmd=npm+run+build&outputDir=dist)
 
 
 
